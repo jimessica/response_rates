@@ -31,5 +31,5 @@ The increase in digital modes of surveying has helped overcome many physical and
 
 # References
 
-[@Manual]
-[@Article]
+[@R]
+[@Tidyverse]
